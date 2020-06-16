@@ -52,4 +52,4 @@ type following url in your browser:
         
   c)While using jars specify the jar file names against jars property of WEB-INF/conf/ServiceConfiguration.conf         
 
-# note : -Only packages specified against scanPackage in WEB-INF/conf/ServiceConfiguration.config will be scanned , make sure that all the services created by you are located in the specified folder. 
+# note : -Only packages specified against scanPackage in WEB-INF/conf/ServiceConfiguration.conf will be scanned , make sure that all the services created by you are located in the specified folder. 
